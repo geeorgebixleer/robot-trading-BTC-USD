@@ -2,7 +2,7 @@
 
 *Robot Trading BTC-USD* es un algoritmo de decisión simple automatizado capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real y está desarrollado en el entorno virtual Google Colaboratory.
 
-El resultado de este código será un gráfico mostrando un periodo de los ultimos 7 días del precio BTC-USD y la decisión del algoritmo en tiempo real, basado en datos normalizados y limpios, que se actualizarán cada 5 minutos.
+El resultado de este código será un gráfico mostrando un periodo de los ultimos 7 días del precio BTC-USD y la decisión del algoritmo en tiempo real, basado en datos que se actualizarán cada 5 minutos.
 
 ### **Librerias utilizadas:**
 - *Pandas*
